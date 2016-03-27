@@ -1,0 +1,4 @@
+beautifulsoup4==4.4.1
+selenium==2.53.1
+virtualenv==15.0.1
+wsgiref==0.1.2
